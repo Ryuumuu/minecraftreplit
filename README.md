@@ -34,9 +34,6 @@
   - `mc!set address mc.hypixel.net`
   - `mc!status`
   - `mc!on`
-  - `mc!status mc.hypixel.net`
-
-  ![Example](https://github.com/emerysteele/minecraft-server-status-bot/blob/main/sample.png?raw=true)
 
 ## Notes
 - This bot uses the mcapi.us API.

@@ -1,0 +1,15 @@
+{
+  "token": "OTYzNTIxNTM4MzQ5NDk4NDE4.YlXTXA.wyw2qGFjN8mvSyvXHUCQzLz6bx4",
+  "prefix": "nc!",
+  "serverAddress": "neizycraft.xyz",
+  "serverPort": "62823",
+  "serverName": "NeizyCraft Network",
+  "updateInterval": "20",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "963528314683785217",
+  "pinGuildId": "963043083736461312",
+  "pinChanId": "963527255672369192"
+}
